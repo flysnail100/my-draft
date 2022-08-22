@@ -45,7 +45,7 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Dongxu Hou
     organization: Your Organization Here
     email: your.email@example.com
 
